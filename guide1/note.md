@@ -2,7 +2,7 @@
 
 ## What You Will Build
 
-http://localhost:8080/greeting URL로 요청을 하면 다음과 같이 반환함
+http://localhost:8080/greeting URL로 요청을 하면 다음과 같이 반환해보자.        
 
 ````json
 {"id":1,"content":"Hello, World!"}
