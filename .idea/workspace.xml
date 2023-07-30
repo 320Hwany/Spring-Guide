@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a104c3f-b8da-4737-b886-7b92008b9d53" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide5/src/main/java/guide5/FileSystemStorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide5/src/main/java/guide5/FileUploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide5/src/main/java/guide5/StorageException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide5/src/main/java/guide5/StorageFileNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide5/src/main/java/guide5/StorageProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide5/src/main/java/guide5/StorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide5/src/main/resources/templates/uploadForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +30,12 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/guide3">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/guide4">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/guide5">
       <ProjectState />
     </projectState>
   </component>
@@ -38,8 +54,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Record" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -49,6 +65,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2T1QQtm5FE5cGkIPAqEUrNtt79s" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -73,11 +93,18 @@
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.118343174&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;android.project.structure&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;7d0ccdedd5b14b3a3c939d77426d5ef3&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d8c6f1663d964023206ff305a0b7e769&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Spring Boot.Guide3Application">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Guide5Application">
     <configuration name="Guide2ApplicationTests.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -92,6 +119,30 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;guide2.Guide2ApplicationTests.test&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Guide5ApplicationTests.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/guide5" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;guide5.Guide5ApplicationTests.test&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -142,8 +193,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Guide4Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="guide4.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guide4.Guide4Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Guide5Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="guide5.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guide5.Guide5Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Guide5ApplicationTests.test" />
         <item itemvalue="Spring Boot.Guide3Application" />
         <item itemvalue="Gradle.Guide2ApplicationTests.test" />
         <item itemvalue="Spring Boot.Guide2Application (1)" />
@@ -167,6 +233,11 @@
       <workItem from="1690346541508" duration="520000" />
       <workItem from="1690347068265" duration="729000" />
       <workItem from="1690347812501" duration="2180000" />
+      <workItem from="1690432556236" duration="4782000" />
+      <workItem from="1690519719606" duration="130000" />
+      <workItem from="1690540790160" duration="389000" />
+      <workItem from="1690541305102" duration="4901000" />
+      <workItem from="1690552788721" duration="6924000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/guide4/guide4.iml" filepath="$PROJECT_DIR$/guide4/guide4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-guide.iml" filepath="$PROJECT_DIR$/.idea/spring-guide.iml" />
     </modules>
   </component>
