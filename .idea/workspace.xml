@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a104c3f-b8da-4737-b886-7b92008b9d53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/guide5/src/main/java/guide5/FileSystemStorageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guide5/src/main/java/guide5/FileUploadController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guide5/src/main/java/guide5/StorageException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guide5/src/main/java/guide5/StorageFileNotFoundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guide5/src/main/java/guide5/StorageProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guide5/src/main/java/guide5/StorageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/guide5/src/main/resources/templates/uploadForm.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide5/note.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -238,6 +229,8 @@
       <workItem from="1690540790160" duration="389000" />
       <workItem from="1690541305102" duration="4901000" />
       <workItem from="1690552788721" duration="6924000" />
+      <workItem from="1690714379877" duration="457000" />
+      <workItem from="1690781637265" duration="757000" />
     </task>
     <servers />
   </component>
