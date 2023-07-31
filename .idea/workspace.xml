@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a104c3f-b8da-4737-b886-7b92008b9d53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/guide5/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide6/src/main/java/guide6/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide6/src/main/java/guide6/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide6/src/main/resources/test-server.ldif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +31,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/guide5">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/guide6">
       <ProjectState />
     </projectState>
   </component>
@@ -95,7 +102,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Guide5Application">
+  <component name="RunManager" selected="Spring Boot.Guide6Application">
     <configuration name="Guide2ApplicationTests.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -198,6 +205,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Guide6Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="guide6.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guide6.Guide6Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.Guide5ApplicationTests.test" />
@@ -230,7 +244,7 @@
       <workItem from="1690541305102" duration="4901000" />
       <workItem from="1690552788721" duration="6924000" />
       <workItem from="1690714379877" duration="457000" />
-      <workItem from="1690781637265" duration="757000" />
+      <workItem from="1690781637265" duration="3371000" />
     </task>
     <servers />
   </component>
