@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a104c3f-b8da-4737-b886-7b92008b9d53" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/guide6/note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide7/src/main/java/guide7/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guide7/src/main/java/guide7/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guide6/src/main/java/guide6/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/guide6/src/main/java/guide6/WebSecurityConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +33,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/guide6">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/guide7">
       <ProjectState />
     </projectState>
   </component>
@@ -68,30 +73,30 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jeong-youhwan/Desktop/playGround/spring-guide&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.118343174&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;android.project.structure&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;d8c6f1663d964023206ff305a0b7e769&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "/Users/jeong-youhwan/Desktop/playGround/spring-guide",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.118343174",
+    "settings.editor.selected.configurable": "android.project.structure",
+    "spring.configuration.checksum": "9279069f72f75b107a1a4469dda8a616",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -99,7 +104,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.Guide6Application">
+  <component name="RunManager" selected="Spring Boot.Guide7Application">
     <configuration name="Guide2ApplicationTests.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -209,6 +214,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Guide7Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="guide7.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="guide7.Guide7Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.Guide5ApplicationTests.test" />
@@ -241,7 +253,8 @@
       <workItem from="1690541305102" duration="4901000" />
       <workItem from="1690552788721" duration="6924000" />
       <workItem from="1690714379877" duration="457000" />
-      <workItem from="1690781637265" duration="5299000" />
+      <workItem from="1690781637265" duration="5979000" />
+      <workItem from="1690862743968" duration="2666000" />
     </task>
     <servers />
   </component>
